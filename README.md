@@ -1,1 +1,0 @@
-# isucon7-final-test
